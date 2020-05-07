@@ -1,0 +1,2 @@
+# FocusCenter.vim
+vim plugin
